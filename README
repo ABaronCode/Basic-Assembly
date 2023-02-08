@@ -1,1 +1,1 @@
-I do not believe the sort numbers program works correctly atm.
+Infix to Postfix: Works as intended with qtSpim, will need to be re-initialized upon each use to run correctly. Will only process functions correctly only if using single operands and operators of "+" and "-."
