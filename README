@@ -1,6 +1,6 @@
 inFixtoPost.asm: -Works as intended with qtSpim, will need to be re-initialized upon each use to run correctly. 
-                 -Will only process functions correctly only if using single operands and operators of "+" and "-."
+                 -Will only process functions correctly only if using single operands and operators of "+" and "-".
 
-SortNumbers.asm: -Works in generating and printing several numbers back to the user then error outs.
+SortNumbers.asm: -Works in generating and printing several numbers back to the user then error outs should be fixable with some edits.
 
 stringCombineExample.asm: -Concatenate "Hello" "World!" into one string then printing it to the user in the console.
